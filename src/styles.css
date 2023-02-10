@@ -1,0 +1,294 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Chivo:wght@300;400;500;600;700;800;900&display=swap');
+
+
+*
+{
+    padding: 0;
+    margin: 0;  
+}
+:root{
+    --primary-color:#788ce3;
+    --secondary-color:#333333;
+    --tertiary-color:#1CAAD9;
+    --accent-color:#000000;
+    --background-color:#ffffff;
+}
+body{
+    height: 100vh;
+    font-family: 'Chivo', sans-serif;
+    color: var(--secondary-color);
+}
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.carousel-indicators button.thumbnail{
+    width: 150px;
+    margin: 0;
+    padding: 1px;
+}
+
+
+button.thumbnail.active img{
+    border: 1.5px solid var(--accent-color);
+}
+
+
+.carousel-indicators{
+    position: static;
+}
+
+.grid{
+  transition: .25s ease;
+   border: 2px solid var(--background-color);
+   border-radius: 5px;
+   background-color: var(--background-color);
+   padding: 14px 25px;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   line-height: 1.6em;
+ }
+ 
+ .grid:hover, .grid:active{
+  transition: .5s ease;
+    border: 2px solid var(--primary-color);
+    border-radius: 5px;
+    text-decoration: none; 
+    cursor: pointer
+ }
+ .grid h3{
+   transition: .5s ease;
+   color: var(--secondary-color);
+ }
+ .grid:hover h3, .grid:active h3{
+  transition: .5s ease;
+   color: var(--primary-color);
+ }
+
+ h3.grid-text{
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 0.2em;
+  font-size: 24px;
+ }
+ p.grid-text{
+    font-size: 16px;
+    line-height: 1.6em;
+    text-indent: 0;
+ }
+ img{
+  border-radius: 5px;
+ }
+ .testimonial-group>.row {
+    display: block;
+    overflow-x:hidden;
+    white-space: nowrap;
+    
+  }
+  .crsl-image{
+    border-radius: 10px;
+  }
+  h1{
+    font-size: 38px;
+    letter-spacing: -0.03em;
+    line-height: 1.4em;
+    font-weight: 400;
+    text-transform: uppercase;
+  }
+  h2{
+    text-transform: uppercase;
+  }
+  
+  h3{
+    font-size: 18px;
+    letter-spacing: 0.2em;
+    line-height: 1.6em;
+    text-transform: uppercase;
+  }
+  
+  p{
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    line-height: 1.8em;
+    font-weight: 300;
+  }
+  
+  .description{
+    
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  
+  .back-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .button-controls i{
+    transition: .25s ease;
+    color: var(--accent-color);
+  }
+  .button-controls i:hover{
+    transition: .25s ease;
+    color: var(--primary-color);
+  }
+  
+  
+  .resume-text{
+    line-height: 2.2em;
+  }
+
+  .resume-text h2{
+    color: var(--primary-color);
+    font-weight: 600;
+  }
+
+  .resume-text h3{
+    color: var(--accent-color);
+    font-weight: 500;
+  }
+  .overlay {
+    opacity: 0;
+    transition: .5s ease;
+    overflow-y: hidden;
+  }
+  
+  .three-d-overlay:hover .overlay {
+    opacity: 1;
+  }
+  .modelTitle{
+    letter-spacing: -0.03em;
+    color: var(--tertiary-color);
+    white-space: initial;
+    font-size: 1vw;
+  }
+  /* .text {
+    color: var(--secondary-color);
+    font-size: 20px;
+    position: relative;
+    top: 70%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  } */
+  .text {
+    color: var(--secondary-color);
+    position: relative;
+    top: 85%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    
+  }
+  .grid-three-d img{
+    padding: 0;
+    object-fit: cover;
+    transition: .5s ease;
+    opacity: 0.5;
+    border: 1px solid var(--secondary-color);
+    border-radius: 5px;
+  }
+
+  .grid-three-d img{
+    border-radius: 5px;
+  }
+
+  .grid-three-d:hover img{
+    opacity: 1;
+    transition: .5s ease;
+    border: 1px solid var(--tertiary-color);;
+    border-radius: 5px;
+    cursor: pointer
+  }
+
+  .sketch-button-controls:hover i{
+    transition: .25s ease;
+    color: var(--tertiary-color)
+  }
+
+  .sketch-button-controls i{
+    transition: .25s ease;
+    color: var(--accent-color)
+  }
+ 
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .sketch-link{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    color: var(--tertiary-color);
+    font-size: 20px;
+  }
+
+  .home-button{
+    transition: .25s ease;
+     border: 2px solid var(--background-color);
+     border-radius: 5px;
+     background-color: var(--background-color);
+     padding: 1vw;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 16px;
+     line-height: 1.6em;
+   }
+   
+   .home-button:hover{
+    transition: .5s ease;
+      border: 2px solid var(--primary-color);
+      border-radius: 5px;
+      text-decoration: none; 
+      cursor: pointer
+   }
+
+   .home-button i, .home-button h3{
+      transition: .5s ease;
+      color: var(--secondary-color);
+   }
+
+   .home-button:hover i, .home-button:hover h3{
+    transition: .5s ease;
+      color: var(--primary-color);
+   }
+   .home-button > div > div > i{
+    background-color:var(--primary-color);
+   }
+
+  .back-button button{
+    background-color: var(--accent-color) !important;
+    border-color: var(--accent-color) !important;
+  }
+
+  .back-button button:hover{
+    background-color: var(--primary-color) !important;
+    border-color: var(--primary-color) !important;
+  }
+
+  .resume-button{
+    border-color: var(--primary-color) !important;
+    color:var(--primary-color) !important;
+  }
+
+  .resume-button:hover{
+    background-color:var(--primary-color) !important;
+    border-color: var(--primary-color) !important;
+    color:var(--background-color) !important;
+  }
+  
+

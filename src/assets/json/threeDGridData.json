@@ -1,0 +1,324 @@
+{
+    "weapons": [
+        {
+            "title": "Low Poly MP7A2",
+            "modelSRC": "https://sketchfab.com/models/1c279385747d413dbcddebe1a24151e8/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly MP7A2",
+            "modelDesc": "A PDW designed for use with troops stationed behind the lines as a weapon capable of defeating body armor in a compact package. The weapon was not fully adopted for that purpose but has seen service and use by police and special forces. This variant of it comes with a red dot sight, folded down iron sights, laser device, stubby grip and suppressor."
+        },
+        {
+            "title": "Low Poly MK18 Mod 1",
+            "modelSRC": "https://sketchfab.com/models/0b3a5e37241f451393088c3326f44c75/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly MK18 Mod 1",
+            "modelDesc": "A more compact variant of the M4A1 rifle designed for special operations. This weapon is equipped with a suppressor, laser device, foregrip, stock accessories and compact holo sight with magnifier."
+        },
+        {
+            "title": "Low Poly M249 PIP",
+            "modelSRC": "https://sketchfab.com/models/f234245e17f1458eadaa4961babe10b7/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly M249 PIP",
+            "modelDesc": "The Product Improvement Program (PIP) set out to upgrade the arsenal of M249 SAW’s by giving them new stocks, improved rail options and new optics. This program upgraded a large number of the weapons and the weapon platform still sees service today."
+        },
+        {
+            "title": "Low Poly M110",
+            "modelSRC": "https://sketchfab.com/models/25e171022cc846edb704fabf8c19af5d/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly M110",
+            "modelDesc": "The M110 is a Semi-Automatic Sniper System in use by the U.S. Army. This particular one is outfitted with a long range scope, night vision attachment, bipod and signature suppressor."
+        },
+        {
+            "title": "Low Poly M72A7",
+            "modelSRC": "https://sketchfab.com/models/a640f8a361a443768df9f7b09161d8d2/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly M72A7",
+            "modelDesc": "The LAW rocket launcher is a single-shot disposable light anti-tank weapon (LAW) designed in the 1960s. The weapon has stayed in service since the Vietnam war and has regained popular use in the Middle east thanks to its lighter weight compared to the AT4. This variant is the newer A7 variant with updated sights and picatinny rails."
+        },
+        {
+            "title": "Low Poly M1911",
+            "modelSRC": "https://sketchfab.com/models/90c6c2d2efbc4c7aaa9d170572d07ee9/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly M1911",
+            "modelDesc": "A custom take on the American classic 1911. This variant features a new hammer, custom trigger, new slide and rail integration on the body of the pistol."
+        },
+        {
+            "title": "Low Poly MP5A4",
+            "modelSRC": "https://sketchfab.com/models/1831aae4f8264f3b96e7cff1552cf4d0/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly MP5A4",
+            "modelDesc": "One of the most iconic and popular submachine guns in film, games, and reality. This version includes a railed handguard, picatinny rail mount, red dot sight and laser device."
+        },
+        {
+            "title": "Low Poly M4A1 M203",
+            "modelSRC": "https://sketchfab.com/models/d8e39d2e970241f19cef5b838b258ed4/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly M4A1 M203",
+            "modelDesc": "A grenadier variant of the popular M4A1 assault rifle, this weapon features an M203 grenade launcher mounted under the barrel, a laser device and medium range optic."
+        },
+        {
+            "title": "Low Poly G3SG1",
+            "modelSRC": "https://sketchfab.com/models/4e7c47c9751c44ed955d907c4f47974f/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly G3SG1",
+            "modelDesc": "The sniper variant of the G3 I just finished, includes a scope mounted on top of a picatinny rail attachment. Also includes a laser device mounted on a fictional rail point that I added just so I could put a laser device on it."
+        },
+        {
+            "title": "Low Poly M2HB .50 Cal Tripod",
+            "modelSRC": "https://sketchfab.com/models/136edb5e84954050a014a166d038abd7/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly M2HB .50 Cal Tripod",
+            "modelDesc": "The Browning M2 heavy machine gun is one of the oldest and still used pieces of American military hardware and packs a devastating punch."
+        },
+        {
+            "title": "Low Poly GL06",
+            "modelSRC": "https://sketchfab.com/models/f373ce1bc7d84dd1a249025ba1e7e6de/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly GL06",
+            "modelDesc": "A modern 40mm grenade launcher designed to be used with lethal and less than lethal ammunition types in both military and police roles. This particular design takes some liberties by giving it a m203 style grenade sight and using a fixed stock instead of the collapsable one."
+        },
+        {
+            "title": "Low Poly Magnum Revolver",
+            "modelSRC": "https://sketchfab.com/models/9191c62d1cec4087809102dcc81493bb/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly Magnum Revolver",
+            "modelDesc": "Another quick revolver that I did this time based on a magnum revolver."
+        },
+        {
+            "title": "Low Poly ACR PDW",
+            "modelSRC": "https://sketchfab.com/models/fe464f80aed1477aba5a169851f17fce/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly ACR PDW",
+            "modelDesc": "A customized variant of my ACR. This weapon features a side mounted flashlight, red dot sight and suppressor."
+        },
+        {
+            "title": "Low Poly Remington 870",
+            "modelSRC": "https://sketchfab.com/models/17679aeb94b44a3a84ea9b33942184ed/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly Remington 870",
+            "modelDesc": "One of the most popular American shotguns developed in the 1950’s for sporting, hunting, self-defense, law enforcement and military use. This download includes 3 variants of the gun: The witness protection sawed off variant, the police grip flashlight variant, and the extended tube variant."
+        },
+        {
+            "title": "Low Poly M1A Classic",
+            "modelSRC": "https://sketchfab.com/models/19732436ba4743878d33733858f3e976/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly M1A Classic",
+            "modelDesc": "The semi auto variant of the all American classic M14, this rifle features classic wood furniture and optic to match popular depictions in media, minus the camouflage of course."
+        },
+        {
+            "title": "Low Poly Mosin Sniper",
+            "modelSRC": "https://sketchfab.com/models/5472b7415ce14468bd19443422e30e08/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly Mosin Sniper",
+            "modelDesc": "The sniper variant of the popular mosin rifle with its proper sniper bolt action and PU Scope added on."
+        },
+        {
+            "title": "Low Poly MPXSD",
+            "modelSRC": "https://sketchfab.com/models/f1a48dc433354e018e569d5d695567ab/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly MPXSD",
+            "modelDesc": "A customized variant of my MPX. This weapon features a side mounted laser, holographic sight and an integral suppressor."
+        },
+        {
+            "title": "Low Poly MDR",
+            "modelSRC": "https://sketchfab.com/models/888bdfbd64434e2696e837a759b19e9a/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly MDR",
+            "modelDesc": "The newest popular bullpup to see widespread use in both the civilian market and video games like Escape From Tarkov. I decided to add a picatinny rail to the left side of the handguard, an mlok sling on the right side of the gun and gave it a two tone gray finish cause I thought it looked cool."
+        },
+        {
+            "title": "Low Poly MK14",
+            "modelSRC": "https://sketchfab.com/models/9361b80c46184ab6b59f0920c1531b1a/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly MK14",
+            "modelDesc": "The classic M14 battle rifle fitted with a more modern chassis featuring more rails and telescopic stock."
+        },
+        {
+            "title": "Low Poly SRSA1",
+            "modelSRC": "https://sketchfab.com/models/d85da467755145e5a4b4a7b78790f60b/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly SRSA1",
+            "modelDesc": "A Bullpup bolt action sniper rifle fed painted in the same color scheme as the MDR featuring a scope and sling."
+        },
+        {
+            "title": "Low Poly MK19 Grenade Launcher Tripod",
+            "modelSRC": "https://sketchfab.com/models/38b3eac2c0d64ec6bbc0d0266caf04a8/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly MK19 Grenade Launcher Tripod",
+            "modelDesc": "The MK 19 is a 40mm belt fed grenade machine gun adopted by the US army in the early 80’s and still sees service today thanks to its capability for high explosive output."
+        },
+        {
+            "title": "Low Poly World War 2 U.S. Weapons",
+            "modelSRC": "https://sketchfab.com/models/a2453947f0444cfe8a77db42f13de87f/embed?autostart=1&camera=0",
+            "frameTitle": "Low Poly World War 2 U.S. Weapons",
+            "modelDesc": "The United States fielded a diverse arsenal of weapons during World War 2, some of which saw service in the first World War and others being developed during the conflict itself. The weapons displayed here are the M1 Bazooka, M1911, M1A1 Thompson, M1 Carbine, M1 Garand, M1903 Springfield, M1918A2 BAR, M3 Grease Gun, M1912 Trench Gun and explosives. As well every weapon has options for modifications; some were solely experimental or feature late additional options."
+        }
+    ],
+    "vehicles": [
+        {
+            "title": "Low Poly Humvee TOW & MK19",
+            "modelSRC": "https://sketchfab.com/models/c4d6bdc3f265421f97fb59e6ab7944c3/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly Humvee TOW & MK19",
+            "modelDesc": "An updated version of my HMMWV models with the new MK19 and BGM-71 TOW static weapons mounted on the vehicles."
+        },
+        {
+            "title": "Low Poly MH-60 Gunship",
+            "modelSRC": "https://sketchfab.com/models/94a3526fafa24685bb4454607ff0d4d5/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly MH-60 Gunship",
+            "modelDesc": "The Blackhawk helicopter can be upgraded with various fire support weapons including TOW missiles, hydra rockets and external guns for close air support roles."
+        },
+        {
+            "title": "Low Poly A10 Thunderbolt II",
+            "modelSRC": "https://sketchfab.com/models/c59de29ef7e34121a38a25e070faef17/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly A10 Thunderbolt II",
+            "modelDesc": "The United States signature ground attack close air support fighter with its iconic GAU-12 cannon and heavy weapons package. This was a new type of model for me to work on creating another plane, it took some iterations but came out well."
+        },
+        {
+            "title": "Low Poly C-130",
+            "modelSRC": "https://sketchfab.com/models/09f12d8cfc884e0689c2dc9eafcb0423/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly C-130",
+            "modelDesc": "A military transport plane used by multiple militaries for troop deployment, moving supplies or even paratrooper drops."
+        },
+        {
+            "title": "Low Poly Pickup Truck",
+            "modelSRC": "https://sketchfab.com/models/7b35992c12f841b694cb26908085e043/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly Pickup Truck",
+            "modelDesc": "A low poly pickup truck based on the 1980 Ford Bronco with elements from other trucks of that era with cover, built rugged and tough."
+        },
+        {
+            "title": "Low Poly SUV",
+            "modelSRC": "https://sketchfab.com/models/b91a480ad3ec4e6d9b3101a3bccc34cf/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly SUV",
+            "modelDesc": "A low poly variant of the 1998 Jeep Grand Cherokee, an SUV with off-road capabilities, roof rack and cool design."
+        },
+        {
+            "title": "Low Poly M1A1 Abrams",
+            "modelSRC": "https://sketchfab.com/models/5a46978116b2448dae555598afe095b2/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly M1A1 Abrams",
+            "modelDesc": "The main battle tank of the US military, 57 tons with a 120mm cannon and advanced optical systems, this tank is a beast on the battlefield."
+        },
+        {
+            "title": "Low Poly M113 APC",
+            "modelSRC": "https://sketchfab.com/models/32f0a9c3bc5245b39aa6969961ad064d/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly M113 APC",
+            "modelDesc": "An American armored personnel carrier heavily utilized during the Vietnam conflict and is still in service to this day."
+        },
+        {
+            "title": "Low Poly CH-47",
+            "modelSRC": "https://sketchfab.com/models/9f75c0839a864df28f8b0c5d6c2ae7d0/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly CH-47",
+            "modelDesc": "An American tandem rotor helicopter designed for heavy cargo lift operations and troop deployment."
+        },
+        {
+            "title": "UH-1H Helicopter",
+            "modelSRC": "https://sketchfab.com/models/b35a6de0fe4b4ffc8156e87ef766195c/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "UH-1H Helicopter",
+            "modelDesc": "A small and mobile military aircraft designed to get troops into and out of battle quickly and safely."
+        },
+        {
+            "title": "Low Poly Train Cars",
+            "modelSRC": "https://sketchfab.com/models/bb2566a8e80d4f32b5e6e0cf4087ee86/embed?autostart=1&camera=0",
+            "frameTitle": "Low Poly Train Cars",
+            "modelDesc": "A series of train cars on multiple track segments with a combined rail connector curving off. The train features fuel cars, cargo containers and standard covered cars with sliding doors."
+        }
+    ],
+    "characeters": [
+        {
+            "title": "Low Poly Armed Survivor",
+            "modelSRC": "https://sketchfab.com/models/f1e86c055483433d92247a3a0fc884ef/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly Armed Survivor",
+            "modelDesc": "A survivor ready for action with an alice rig over a thick overcoat and bloused boots."
+        },
+        {
+            "title": "Low Poly Soldiers",
+            "modelSRC": "https://sketchfab.com/models/6079b29d21564db5ba141e0de0c456fe/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly Soldiers",
+            "modelDesc": "A low poly design of U.S. military soldiers with ERDL and Snow camo uniforms and M4 and M16 type rifles and heavy gear."
+        },
+        {
+            "title": "Low Poly Specops Duo",
+            "modelSRC": "https://sketchfab.com/models/b0b6cae008b24fb89bb1d2b5903f2c94/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly Specops Duo",
+            "modelDesc": "Special forces character design equipped with a Car 15 and MP5SD, and light gear."
+        },
+        {
+            "title": "Low Poly Heavy Trooper",
+            "modelSRC": "https://sketchfab.com/models/4df434eab9324e23bfd9418fb2a42be8/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly Heavy Trooper",
+            "modelDesc": "A low poly heavy designed soldier with extra bulk and heavy equipment."
+        }
+    ],
+    "props": [
+        {
+            "title": "Low Poly Blunt Tools",
+            "modelSRC": "https://sketchfab.com/models/60a67909f75b4bfc951a16b99290105c/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly Blunt Tools",
+            "modelDesc": "A Pipe Wrench, Classic Monkey Wrench, Lead Pipe and Crowbar."
+        },
+        {
+            "title": "Low Poly Military Tools",
+            "modelSRC": "https://sketchfab.com/models/9b3fb08df29243559bd77bfc6c730abc/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly Military Tools",
+            "modelDesc": "Models of a classic folding shovel, modern military entrenching tool and a combat ax or tomahawk."
+        },
+        {
+            "title": "Low Poly Military Knives",
+            "modelSRC": "https://sketchfab.com/models/a1222b0eda8740918ad30da116776efb/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly Military Knives",
+            "modelDesc": "Models of the Ka-Bar Knife, the M9 Bayonet and Spetsnaz Machete."
+        },
+        {
+            "title": "Low Poly Office Props",
+            "modelSRC": "https://sketchfab.com/models/ba8e93419b9d4ca39db96c3b20dd69eb/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly Office Props",
+            "modelDesc": "A small dark olive drab desk with a metal rolling chair and various office assets located on it. There is a filing cabinet, floppy disks, old computer, binders and a clipboard."
+        },
+        {
+            "title": "Low Poly Supply Props",
+            "modelSRC": "https://sketchfab.com/models/5c50d9ca22984728af9c0e072c0b969e/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly Supply Props",
+            "modelDesc": "A collection of small props to be used for ingame items or background elements. The set includes a toolbox, two different colored jerry cans, two different barrels, a medkit and ammo box."
+        },
+        {
+            "title": "Low Poly Crates",
+            "modelSRC": "https://sketchfab.com/models/d230c659c1394d4bb6733b107765714b/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly Crates",
+            "modelDesc": "A set of different military crates, small, medium and large crates, a large wooden crate and a tall strapped crate with pallets."
+        },
+        {
+            "title": "Low Poly Shipping Containers",
+            "modelSRC": "https://sketchfab.com/models/fd2e0801563b4bf09dc9f3e044c3d921/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly Shipping Containers",
+            "modelDesc": "Low poly cargo containers for shipping heavy materials and transportation."
+        },
+        {
+            "title": "Low Poly Coiled Sword",
+            "modelSRC": "https://sketchfab.com/models/52b643a66a0f41c4ac75eeac8847992d/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly Coiled Sword",
+            "modelDesc": "A low poly dark souls bonfire with the coiled sword that blends into the pile of ash."
+        },
+        {
+            "title": "Low Poly Gramophone",
+            "modelSRC": "https://sketchfab.com/models/05adbc7eecbf40208a16914fe9d6f31c/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly Gramophone",
+            "modelDesc": "One of the earliest ways of recording and playing audio was a record player, this model dates back to the early 1900’s."
+        },
+        {
+            "title": "Low Poly World War 1 Supply",
+            "modelSRC": "https://sketchfab.com/models/0a38336e89a649469fb6cd9c941bc5b3/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly World War 1 Supply",
+            "modelDesc": "A variety of storage containers were used during the great war often made out of wood. These are examples of multiple types of crates, a barrel, bucket and even a lantern sat on top."
+        },
+        {
+            "title": "Low Poly World War 1 Table",
+            "modelSRC": "https://sketchfab.com/models/f830f2f95f224edebb18acc74527b7d4/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly World War 1 Table",
+            "modelDesc": "A small table set up with metal plates and cups on a classic wooden table with a chair. There are old bottles that take up additional space and a lantern close by."
+        }
+    ],
+    "environments": [
+        {
+            "title": "Low Poly Guard Post",
+            "modelSRC": "https://sketchfab.com/models/25e3f503328e46f79c8b499dddba73a0/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly Guard Post",
+            "modelDesc": "A small guard outpost in the snow with heavy fortifications on the surrounding areas. This post includes tank traps, chain link fence, jersey barricades, h barriers and a bar gate."
+        },
+        {
+            "title": "Low Poly Military Outpost",
+            "modelSRC": "https://sketchfab.com/models/c57e61cd97d640769bf53fb79bb6185f/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly Military Outpost",
+            "modelDesc": "A small military outpost in the snow surrounded by concrete walls with guard towers on the perimeter. Barracks buildings and main headquarters buildings with a helipad and fuel canisters nearby."
+        },
+        {
+            "title": "Low Poly Catacomb",
+            "modelSRC": "https://sketchfab.com/models/e46fb96c3c884eb7958acc503eb8d94b/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly Catacomb",
+            "modelDesc": "A snippet of a catacomb hallway rocks blocking the other entryway."
+        },
+        {
+            "title": "Low Poly World War 1 Trench Segment",
+            "modelSRC": "https://sketchfab.com/models/3be8f83e46d74b84aacc45ae5279c733/embed?autospin=1&autostart=1&camera=0",
+            "frameTitle": "Low Poly World War 1 Trench Segment",
+            "modelDesc": "The first world war was fought heavily in long segmented trench networks, this is a low poly example of a small section with barbed wire lining both sides, sandbags on the ramparts and wooden planks in the dirt."
+        }
+    ]
+}

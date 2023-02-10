@@ -1,0 +1,12 @@
+.vertical-center {
+  margin: 0;
+  position: relative;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.three-d-thumbnail{
+  padding-left: 1vmax;
+  padding-right: 1vmax;
+}

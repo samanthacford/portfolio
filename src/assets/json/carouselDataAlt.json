@@ -1,0 +1,194 @@
+{
+    "baseZero": [
+        {
+            "imageSRC" : "../../../../assets/images/Base Zero/BZ_1.png",
+            "slideVal": "0",
+            "slideNum" : "Slide 1"
+        },
+        {
+            "imageSRC" : "../../../../assets/images/Base Zero/BZ_2.png",
+            "slideVal": "1",
+            "slideNum" : "Slide 2"
+        },
+        {
+            "imageSRC" :"../../../../assets/images/Base Zero/BZ_3.png",
+            "slideVal":"2",
+            "slideNum" : "Slide 3"
+        },
+        {
+            "imageSRC" :"../../../../assets/images/Base Zero/BZ_4.png",
+            "slideVal":"3",
+            "slideNum" : "Slide 4"
+        },
+        {
+            "imageSRC" :"../../../../assets/images/Base Zero/BZ_5.png",
+            "slideVal":"4",
+            "slideNum" : "Slide 5"
+        },
+        {
+            "imageSRC" :"../../../../assets/images/Base Zero/BZ_6.png",
+            "slideVal":"5",
+            "slideNum" : "Slide 6"
+        },
+        {
+            "imageSRC" :"../../../../assets/images/Base Zero/BZ_7.png",
+            "slideVal":"6",
+            "slideNum" : "Slide 7"
+        },
+        {
+            "imageSRC" :"../../../../assets/images/Base Zero/BZ_8.png",
+            "slideVal":"7",
+            "slideNum" : "Slide 8"
+        },
+        {
+            "imageSRC" :"../../../../assets/images/Base Zero/BZ_9.png",
+            "slideVal":"8",
+            "slideNum" : "Slide 9"
+        },
+        {
+            "imageSRC" :"../../../../assets/images/Base Zero/BZ_10.png",
+            "slideVal":"9",
+            "slideNum" : "Slide 10"
+        }
+    ], "unreal engine 4 demo" : [
+        {
+            "imageSRC" : "../../../../assets/images/Unreal_Demo/UD_1.png",
+            "slideVal": "0",
+            "slideNum" : "Slide 1"
+        },
+        {
+            "imageSRC" : "../../../../assets/images/Unreal_Demo/UD_2.png",
+            "slideVal": "1",
+            "slideNum" : "Slide 2"
+        },
+        {
+            "imageSRC" : "../../../../assets/images/Unreal_Demo/UD_3.png",
+            "slideVal": "2",
+            "slideNum" : "Slide 3"
+        },
+        {
+            "imageSRC" : "../../../../assets/images/Unreal_Demo/UD_4.png",
+            "slideVal": "3",
+            "slideNum" : "Slide 4"
+        },
+        {
+            "imageSRC" : "../../../../assets/images/Unreal_Demo/UD_5.png",
+            "slideVal": "4",
+            "slideNum" : "Slide 5"
+        },
+        {
+            "imageSRC" : "../../../../assets/images/Unreal_Demo/UD_6.png",
+            "slideVal": "5",
+            "slideNum" : "Slide 6"
+        },
+        {
+            "imageSRC" : "../../../../assets/images/Unreal_Demo/UD_7.png",
+            "slideVal": "6",
+            "slideNum" : "Slide 7"
+        },
+        {
+            "imageSRC" : "../../../../assets/images/Unreal_Demo/UD_8.png",
+            "slideVal": "7",
+            "slideNum" : "Slide 8"
+        }
+    ], "just force": [
+        {
+            "imageSRC" : "../../../../assets/images/justforce/justone.PNG",
+            "slideVal": "0",
+            "slideNum" : "Slide 1"
+        },
+        {
+            "imageSRC" : "../../../../assets/images/justforce/justtwo.png",
+            "slideVal": "1",
+            "slideNum" : "Slide 2"
+        },
+        {
+            "imageSRC" : "../../../../assets/images/justforce/justthree.png",
+            "slideVal": "2",
+            "slideNum" : "Slide 3"
+        },
+        {
+            "imageSRC" : "../../../../assets/images/justforce/justfour.png",
+            "slideVal": "3",
+            "slideNum" : "Slide 4"
+        },
+        {
+            "imageSRC" : "../../../../assets/images/justforce/justfive.png",
+            "slideVal": "4",
+            "slideNum" : "Slide 5"
+        }
+    ], "asteroids" : [
+        {
+            "imageSRC" : "../../../../assets/images/asteroids/astone.png",
+            "slideVal": "0",
+            "slideNum" : "Slide 1"
+        },
+        {
+            "imageSRC" : "../../../../assets/images/asteroids/asttwo.png",
+            "slideVal": "1",
+            "slideNum" : "Slide 2"
+        },
+        {
+            "imageSRC" : "../../../../assets/images/asteroids/asttwo.png",
+            "slideVal": "2",
+            "slideNum" : "Slide 3"
+        },
+        {
+            "imageSRC" : "../../../../assets/images/asteroids/astthree.png",
+            "slideVal": "3",
+            "slideNum" : "Slide 4"
+        },
+        {
+            "imageSRC" : "../../../../assets/images/asteroids/astfive.png",
+            "slideVal": "4",
+            "slideNum" : "Slide 5"
+        }
+    ], "airborne run" : [
+        {
+            "imageSRC" : "../../../../assets/images/airbornerun/dangertwo.png",
+            "slideVal": "0",
+            "slideNum" : "Slide 1"
+        },
+        {
+            "imageSRC" : "../../../../assets/images/airbornerun/dangerone.png",
+            "slideVal": "1",
+            "slideNum" : "Slide 2"
+        },
+        {
+            "imageSRC" : "../../../../assets/images/airbornerun/dangerfour.png",
+            "slideVal": "2",
+            "slideNum" : "Slide 3"
+        },
+        {
+            "imageSRC" : "../../../../assets/images/airbornerun/dangerthree.png",
+            "slideVal": "3",
+            "slideNum" : "Slide 4"
+        }
+    ], "c++ game engine" : [
+        {
+            "imageSRC" : "../../../../assets/images/engine/engine1.png",
+            "slideVal": "0",
+            "slideNum" : "Slide 1"
+        },
+        {
+            "imageSRC" : "../../../../assets/images/engine/engine2.png",
+            "slideVal": "1",
+            "slideNum" : "Slide 2"
+        },
+        {
+            "imageSRC" : "../../../../assets/images/engine/engine3.png",
+            "slideVal": "2",
+            "slideNum" : "Slide 3"
+        },
+        {
+            "imageSRC" : "../../../../assets/images/engine/engine4.png",
+            "slideVal": "3",
+            "slideNum" : "Slide 4"
+        },
+        {
+            "imageSRC" : "../../../../assets/images/engine/engine5.png",
+            "slideVal": "4",
+            "slideNum" : "Slide 5"
+        }
+    ]
+}
