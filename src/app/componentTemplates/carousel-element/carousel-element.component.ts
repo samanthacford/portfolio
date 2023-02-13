@@ -36,6 +36,7 @@ export class CarouselElementComponent implements OnInit {
     this.intervalId = null;
   };
 
+  //moves the horizontal bar on slide change
   slide_bar() {
     //set the max time value between transitions
     let timeValue = 2.5;
@@ -49,12 +50,13 @@ export class CarouselElementComponent implements OnInit {
           if (document.getElementById('horizontal-bar')!.children[i].classList[k] == 'active') {
             //Set the start position for the lerp
             let startPos = document.getElementById('horizontal-bar')!.scrollLeft
-            //calculate the end position for the lerp
+            //calculate the end position for the lerp using the width of the thumbnail times the current element index
             let endPos = (document.getElementById('slide 1')!.offsetWidth + 2) * i;
             //set a counter variable
             let counter = 0;
             //setInterval which starts a timer
             this.intervalId = setInterval(() => {
+              //increment the counter by a set amount
               counter = counter + 0.05;
               //Check if the timer reaches the max time value
               if (counter > timeValue) {

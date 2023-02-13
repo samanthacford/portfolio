@@ -1,17 +1,16 @@
-.about-text{
+/* set the number of columns to 2 for desktop */
+.about-text {
   column-count: 2;
 }
 
-
+/* actions taken on mobile */
 @media (max-width: 480px) {
-
-    .resume-button {
-  
-      display: none;
-  
-    }
-
-    .about-text{
-      column-count: 1;
-    }
+  /* hide the download resume button */
+  .resume-button {
+    display: none;
+  }
+  /* set the column count 1 */
+  .about-text {
+    column-count: 1;
+  }
 }

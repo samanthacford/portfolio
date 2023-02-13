@@ -1,7 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
 @import url('https://fonts.googleapis.com/css2?family=Chivo:wght@300;400;500;600;700;800;900&display=swap');
 
-
 *
 {
     padding: 0;
@@ -123,6 +122,13 @@ button.thumbnail.active img{
     line-height: 1.8em;
     font-weight: 300;
   }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
   
   .description{
     
@@ -135,7 +141,17 @@ button.thumbnail.active img{
     justify-content: center;
     align-items: center;
   }
-  
+
+  .back-button button{
+    background-color: var(--accent-color) !important;
+    border-color: var(--accent-color) !important;
+  }
+
+  .back-button button:hover{
+    background-color: var(--primary-color) !important;
+    border-color: var(--primary-color) !important;
+  }
+
   .button-controls i{
     transition: .25s ease;
     color: var(--accent-color);
@@ -159,32 +175,18 @@ button.thumbnail.active img{
     color: var(--accent-color);
     font-weight: 500;
   }
-  .overlay {
-    opacity: 0;
-    transition: .5s ease;
-    overflow-y: hidden;
+ 
+  .resume-button{
+    border-color: var(--primary-color) !important;
+    color:var(--primary-color) !important;
+  }
+
+  .resume-button:hover{
+    background-color:var(--primary-color) !important;
+    border-color: var(--primary-color) !important;
+    color:var(--background-color) !important;
   }
   
-  .three-d-overlay:hover .overlay {
-    opacity: 1;
-  }
-  .modelTitle{
-    letter-spacing: -0.03em;
-    color: var(--tertiary-color);
-    white-space: initial;
-    font-size: 1vw;
-  }
-  /* .text {
-    color: var(--secondary-color);
-    font-size: 20px;
-    position: relative;
-    top: 70%;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    text-align: center;
-  } */
   .text {
     color: var(--secondary-color);
     position: relative;
@@ -227,20 +229,46 @@ button.thumbnail.active img{
     color: var(--accent-color)
   }
  
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
+  
 
   .sketch-link{
+    transition: .25s ease;
     display: block;
     text-align: center;
     text-decoration: none;
     font-weight: bold;
-    color: var(--tertiary-color);
+    color: var(--accent-color);
     font-size: 20px;
+  }
+
+  .sketch-link:hover{
+    transition: .25s ease;
+    color: var(--tertiary-color);
+  }
+  
+  .sketch-link img{
+    transition: .25s ease;
+    border: solid var(--accent-color) 1px;
+  }
+  .sketch-link:hover img{
+    transition: .25s ease;
+    border: solid var(--tertiary-color) 1px;
+  }
+
+  .overlay {
+    opacity: 0;
+    transition: .5s ease;
+    overflow-y: hidden;
+  }
+  
+  .three-d-overlay:hover .overlay {
+    opacity: 1;
+  }
+  .modelTitle{
+    letter-spacing: -0.03em;
+    color: var(--tertiary-color);
+    white-space: initial;
+    font-size: 1vw;
   }
 
   .home-button{
@@ -276,25 +304,7 @@ button.thumbnail.active img{
     background-color:var(--primary-color);
    }
 
-  .back-button button{
-    background-color: var(--accent-color) !important;
-    border-color: var(--accent-color) !important;
-  }
 
-  .back-button button:hover{
-    background-color: var(--primary-color) !important;
-    border-color: var(--primary-color) !important;
-  }
 
-  .resume-button{
-    border-color: var(--primary-color) !important;
-    color:var(--primary-color) !important;
-  }
-
-  .resume-button:hover{
-    background-color:var(--primary-color) !important;
-    border-color: var(--primary-color) !important;
-    color:var(--background-color) !important;
-  }
   
 

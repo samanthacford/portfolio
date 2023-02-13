@@ -14,7 +14,6 @@ import { GridElementComponent } from './componentTemplates/grid-element/grid-ele
 import { CarouselElementComponent } from './componentTemplates/carousel-element/carousel-element.component';
 import { CarouselBioElementComponent } from './componentTemplates/carousel-bio-element/carousel-bio-element.component';
 import { ModalGridElementComponent } from './componentTemplates/modal-grid-element/modal-grid-element.component';
-import { SafePipeComponent } from './componentTemplates/safe-pipe/safe-pipe.component';
 import { IconGridElementComponent } from './componentTemplates/icon-grid-element/icon-grid-element.component';
 import { Ud4demoComponent } from './pages/game_design_pages/ud4demo/ud4demo.component';
 import { JustforceComponent } from './pages/game_design_pages/justforce/justforce.component';
@@ -36,7 +35,6 @@ import { CgameengineComponent } from './pages/game_design_pages/cgameengine/cgam
     CarouselElementComponent,
     CarouselBioElementComponent,
     ModalGridElementComponent,
-    SafePipeComponent,
     IconGridElementComponent,
     Ud4demoComponent,
     JustforceComponent,
