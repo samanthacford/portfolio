@@ -1,42 +1,53 @@
+<!-- component that creates a carousel with thumbnails and controls underneath the carousel -->
+<!-- bootstrap carousel element -->
 <div id="carouselExampleIndicators" class="carousel slide ">
-
+    <!-- carousel images  -->
     <div class="carousel-inner crsl-image">
+        <!-- first image in carousel requires active tag applied to it on creation -->
         <div class="carousel-item active">
-            <img  [src]="firstSlide.src" class="d-block w-100" alt="...">
-            
+            <img [src]="firstSlide.src" class="d-block w-100" alt="...">
+
         </div>
+        <!-- loop through the array of slides creating elements dynamically -->
         <div class="carousel-item" *ngFor="let slide of slides">
-            <img  [src]="slide.src" class="d-block w-100">
+            <img [src]="slide.src" class="d-block w-100">
         </div>
-        
+
     </div>
+    <!-- controls for manipulating the carousel -->
     <div class="row">
+        <!-- left button that cycles to the previous slide -->
         <div class="col-2 p-0 ">
-            <button type="button" (click)="slide_bar()" id="previous-image" class="h-75 w-100 btn btn-link button-controls p-0" data-bs-target="#carouselExampleIndicators"
-            data-bs-slide="prev" style=" color: black;"><i class="bi overflow-hidden bi-caret-left-square-fill" style="font-size: 50px;"></i></button>
+            <button type="button" (click)="slide_bar()" id="previous-image"
+                class="h-75 w-100 btn btn-link button-controls p-0" data-bs-target="#carouselExampleIndicators"
+                data-bs-slide="prev" style=" color: black;"><i class="bi overflow-hidden bi-caret-left-square-fill"
+                    style="font-size: 50px;"></i></button>
         </div>
+        <!-- horizontal scroll that moves the image thumbnails as the slide changes -->
         <div class="col-8">
-            <div class="carousel-indicators w-100 ms-auto testimonial-group " >
+            <div class="carousel-indicators w-100 ms-auto testimonial-group ">
 
                 <div class="row snaps-inline" id="horizontal-bar">
-                    
-                    <button (click)="slide_bar()" href="slide 1" type="button" data-bs-target="#carouselExampleIndicators"  [attr.data-bs-slide-to]="firstSlide.slideVal"
-                        class="active thumbnail col-lg-4" style="height: 85px" aria-current="true" [attr.aria-label]="firstSlide.slideNum"><img id="slide 1"
-                        [src]="firstSlide.src" class="d-block w-100"
-                            alt="..."></button>
-                    <button (click)="slide_bar()" *ngFor="let slide of slides" type="button" data-bs-target="#carouselExampleIndicators" [attr.data-bs-slide-to]="slide.slideVal"
+
+                    <button (click)="slide_bar()" href="slide 1" type="button"
+                        data-bs-target="#carouselExampleIndicators" [attr.data-bs-slide-to]="firstSlide.slideVal"
+                        class="active thumbnail col-lg-4" style="height: 85px" aria-current="true"
+                        [attr.aria-label]="firstSlide.slideNum"><img id="slide 1" [src]="firstSlide.src"
+                            class="d-block w-100" alt="..."></button>
+                    <button (click)="slide_bar()" *ngFor="let slide of slides" type="button"
+                        data-bs-target="#carouselExampleIndicators" [attr.data-bs-slide-to]="slide.slideVal"
                         class="thumbnail col-lg-4" style="height: 85px" [attr.aria-label]="slide.slideNum"> <img
-                        [src]="slide.src" class="d-block w-100"
-                            alt="..."></button>
+                            [src]="slide.src" class="d-block w-100" alt="..."></button>
 
                 </div>
             </div>
         </div>
+        <!-- right button that cycles to the next slide -->
         <div class="col-2 p-0 ">
-            <button type="button" (click)="slide_bar()" class="h-75 w-100 btn btn-link p-0 button-controls" id="next-image" data-bs-target="#carouselExampleIndicators"
-            data-bs-slide="next" style=" color: black;"><i class="bi bi-caret-right-square-fill" style="font-size: 50px; text-align: right;"></i></button>
+            <button type="button" (click)="slide_bar()" class="h-75 w-100 btn btn-link p-0 button-controls"
+                id="next-image" data-bs-target="#carouselExampleIndicators" data-bs-slide="next"
+                style=" color: black;"><i class="bi bi-caret-right-square-fill"
+                    style="font-size: 50px; text-align: right;"></i></button>
         </div>
     </div>
-
-
 </div>

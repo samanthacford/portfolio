@@ -86,10 +86,16 @@ button.thumbnail.active img{
  }
  .testimonial-group>.row {
     display: block;
+    overflow-x:auto;
+    white-space: nowrap;
+  }
+
+  .model-group>.row {
+    display: block;
     overflow-x:hidden;
     white-space: nowrap;
-    
   }
+
   .crsl-image{
     border-radius: 10px;
   }

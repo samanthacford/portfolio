@@ -1,6 +1,9 @@
+    <!-- component that creates a grid element with a title, image and description of the project -->
+    <!-- title of the project -->
     <div>
         <H3 class="grid-text" style="white-space:pre-wrap;"><strong>{{gameTitle}}</strong></H3>
     </div>
+    <!-- image thumbnail for the project -->
     <div style="overflow: hidden; transform: translate3d(0px, 0px, 0px);">
         <div>
             <img style="cursor: pointer; width: 100%; height: 200px; object-position: 50% 50%; object-fit: cover;"
@@ -8,10 +11,10 @@
                 data-image-resolution="500w" src={{imageSRC}}>
 
         </div>
-
     </div>
+    <!-- horizontal line that seperates the bottom of the image and the start of the description -->
     <hr style="width:100%; border: 0;border-top: 2px solid black;">
+    <!-- description of the project -->
     <div>
-
         <p class="grid-text" style="white-space:pre-wrap;">{{gameDesc}}</p>
     </div>

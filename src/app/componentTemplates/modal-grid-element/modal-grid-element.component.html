@@ -1,10 +1,13 @@
+<!-- component that creates a thumbnail linked to the modal box -->
+<!-- button that can be clicked on to display the modal box -->
 <button class="col-2 grid-three-d three-d-overlay" style="border:0; background-color: white;" data-bs-toggle="modal"
     data-bs-target="#exampleModal">
-    <img src={{imageSRC}} class="w-100 h-100">
-    
+    <!-- img thumbnail for the model -->
+    <img src={{imageSRC}} class="w-100 h-100">    
+    <!-- parent div for the overlay effects -->
     <div class="overlay">
+        <!-- header of the model title -->
         <div class="pt-1" style="color: #333333;">
-            <!-- <hr class="text p-0 m-0" style="width:50%; border: 0;border-top: 2px solid black; "> -->
             <h3 class="modelTitle  p-0 m-0">{{modelTitle}}</h3>
         </div>
     </div>

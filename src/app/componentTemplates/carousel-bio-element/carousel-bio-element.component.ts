@@ -6,6 +6,7 @@ import { Component,Input } from '@angular/core';
   styleUrls: ['./carousel-bio-element.component.css']
 })
 export class CarouselBioElementComponent {
+  //input values for project information
   @Input() gameTitle: string;
   @Input() gameRole: string;
   @Input() gameDesc: string;

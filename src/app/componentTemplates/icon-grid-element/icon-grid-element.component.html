@@ -1,14 +1,17 @@
+<!-- component that creates a grid element using a title, icon and flavor text -->
+<!-- title of the element -->
 <div>
     <H3 class="grid-text" style="white-space:pre-wrap; text-align: center;"><strong>{{title}}</strong></H3>
 </div>
+<!-- icon to represent the element -->
 <div style="overflow: hidden; transform: translate3d(0px, 0px, 0px); text-align: center;">
     <div>
         <i class={{iconSRC}} style="font-size: 150px;"></i>
     </div>
-
 </div>
+<!-- horizontal line that seperates the bottom of the icon and the flavor text -->
 <hr class="center" style="width:75%; border: 0;border-top: 2px solid black;">
+<!-- flavor text for the element -->
 <div>
-
     <p class="grid-text" style="white-space:pre-wrap; text-align: center;">{{desc}}</p>
 </div>

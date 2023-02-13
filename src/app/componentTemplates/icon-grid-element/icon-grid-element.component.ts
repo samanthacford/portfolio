@@ -6,6 +6,7 @@ import { Component,Input } from '@angular/core';
   styleUrls: ['./icon-grid-element.component.css']
 })
 export class IconGridElementComponent {
+  // inputs for title of the element, the icon src and the flavor text
   @Input() title: string;
   @Input() iconSRC: string;
   @Input() desc: string;
